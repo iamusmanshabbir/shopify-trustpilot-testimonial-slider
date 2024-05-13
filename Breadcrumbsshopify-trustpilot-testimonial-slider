@@ -1,0 +1,13 @@
+<script type="text/javascript">(function () { var script=document.createElement("script");
+                      script.type="text/javascript",
+                      script.async=!0,
+                      script.id="hp-widget-code",
+                      script.setAttribute('data-api', 'https://api-v6.hellopeter.com/api'),
+                      script.setAttribute('data-appUrl', 'https://business.hellopeter.com'),
+                      script.setAttribute('data-search', 'savannadeals-capetowncoza'),
+                      script.setAttribute('data-params', '{"minReviewsRequired":{"ratings":[4,5]},"widget_background_color":"original","dimension":"700","font_color":"#58595b","logo_color":"logo-transparent.svg","five_star_rating_color":"#00bf87","average_star_rating_color":"#00bf87","four_star_rating_color":"#30c8a7","widget_header":"metrics","display_industry_ranking":false,"isMobile":false,"previewBackground":"#2484b5","is_logo_disable":true,"previewIframeHeight":"365px","previewIframeWidth":"300px","num_of_reviews":10,"reviewers_name_as_anonymous":false,"google_metrix":false,"google_reviews":false,"facebook_metrix":false,"facebook_reviews":false,"showTagLine":false,"aboutLink":"https://intercom.help/hellopeter/en/articles/4410339-carousel-widget","display_industry_rank":false}'),
+                      script.setAttribute('data-appFront', 'https://www.hellopeter.com'),
+                      script.src="https://business.hellopeter.com/static/js/carousel.js?v=zuH2YDRmZt";
+                      var scriptTag=document.getElementsByTagName("script")[0];
+                      scriptTag.parentNode.insertBefore(script,scriptTag)
+                    })()</script><style>#hp-widget-vertical-feed-widget{display: none}</style><div id="hp-widget-vertical_feed"></div>
